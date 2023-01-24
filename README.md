@@ -17,9 +17,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### :camera_flash: Layout
 
 <div align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-   <img alt="Captura de tela da aplicação" src="assets/home.webp" style="width: 30%">
-   <img alt="Captura de tela da aplicação" src="assets/produtos.webp" style="width: 30%">
-   <img alt="Captura de tela da aplicação" src="assets/blog.webp" style="width: 30%">
+   <a href="https://user-images.githubusercontent.com/47145180/214333430-aad74683-a5b2-4126-b7d4-e6445b8657b4.mp4" target="_blank">
+   	Assista à apresentação das telas
+   </a>
 </div>
 
 ### 🛠 Tecnologias
